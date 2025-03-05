@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **one day I will have a game company**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

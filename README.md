@@ -23,7 +23,7 @@ On the side, I freelance — building apps and video games because why not have 
 🔨 **IaC:** Terraform | Ansible  
 🚀 **CI/CD:** Azure DevOps | GitHub Actions | ArgoCD  
 📊 **Monitoring:** Prometheus | Grafana | Loki  
-🧠 **Languages:** Go | Python | Bash | TypeScript | JavaScript | GdScript  
+🧠 **Languages:** Go | Python | Bash | TypeScript | JavaScript | C# | GdScript  
 
 ---
 
